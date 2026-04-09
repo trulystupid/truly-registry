@@ -7,7 +7,8 @@
   "tags": ["timer", "reminder", "alerts", "productivity"],
   "detect": {
     "win": {
-      "registryName": "Truly Timer"
+      "registryName": "Truly Timer",
+      "processName": "Truly Timer.exe"
     }
   }
 }

@@ -7,7 +7,8 @@
   "tags": ["workflow", "automation", "sakura"],
   "detect": {
     "win": {
-      "registryName": "Sakura Slipstream"
+      "registryName": "Sakura Slipstream",
+      "processName": "Sakura Slipstream.exe"
     }
   }
 }
