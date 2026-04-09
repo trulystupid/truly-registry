@@ -1,0 +1,8 @@
+{
+  "id": "game-overlay-bridge",
+  "name": "Game Overlay Bridge",
+  "description": "Automatically control OBS overlays and scenes based on your Valorant game state.",
+  "author": "TrulyStupid",
+  "category": "Utilities",
+  "tags": ["obs", "streaming", "valorant", "overlay"]
+}
