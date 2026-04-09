@@ -4,5 +4,10 @@
   "description": "Attention-grabbing timer app with special effects, sound alerts, and follow-up verification to ensure you never miss a reminder.",
   "author": "TrulyStupid",
   "category": "Utilities",
-  "tags": ["timer", "reminder", "alerts", "productivity"]
+  "tags": ["timer", "reminder", "alerts", "productivity"],
+  "detect": {
+    "win": {
+      "registryName": "Truly Timer"
+    }
+  }
 }

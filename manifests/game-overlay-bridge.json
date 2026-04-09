@@ -4,5 +4,10 @@
   "description": "Automatically control OBS overlays and scenes based on your Valorant game state.",
   "author": "TrulyStupid",
   "category": "Utilities",
-  "tags": ["obs", "streaming", "valorant", "overlay"]
+  "tags": ["obs", "streaming", "valorant", "overlay"],
+  "detect": {
+    "win": {
+      "registryName": "Game Overlay Bridge"
+    }
+  }
 }

@@ -4,5 +4,10 @@
   "description": "A cute workflow automation app with sakura aesthetics.",
   "author": "TrulyStupid",
   "category": "Productivity",
-  "tags": ["workflow", "automation", "sakura"]
+  "tags": ["workflow", "automation", "sakura"],
+  "detect": {
+    "win": {
+      "registryName": "Sakura Slipstream"
+    }
+  }
 }
