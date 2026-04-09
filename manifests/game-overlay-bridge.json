@@ -1,14 +1,18 @@
 {
   "id": "game-overlay-bridge",
   "name": "Game Overlay Bridge",
-  "description": "Automatically control OBS overlays and scenes based on your Valorant game state.",
+  "description": "Automatically control OBS overlays and scenes based on Valorant game state. Toggle sources or switch scenes when entering/leaving matches.",
   "author": "TrulyStupid",
-  "category": "Utilities",
-  "tags": ["obs", "streaming", "valorant", "overlay"],
+  "category": "Automation",
+  "tags": ["valorant", "obs", "overlay", "streaming", "gaming", "automation"],
   "detect": {
     "win": {
-      "registryName": "Game Overlay Bridge",
-      "processName": "ValorantOBSBridge.exe"
+      "registryName": ["Game Overlay Bridge", "Valorant OBS Bridge"],
+      "processName": ["ValorantOBSBridge.exe", "Game Overlay Bridge.exe"],
+      "paths": [
+        "%LOCALAPPDATA%/Programs/Game Overlay Bridge",
+        "%LOCALAPPDATA%/Programs/ValorantOBSBridge"
+      ]
     }
   }
 }

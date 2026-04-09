@@ -1,14 +1,18 @@
 {
   "id": "sakura-slipstream",
   "name": "Sakura Slipstream",
-  "description": "A cute workflow automation app with sakura aesthetics.",
+  "description": "A cute workflow automation app with sakura aesthetics. Launch apps, control Spotify, switch OBS scenes, adjust audio, and more.",
   "author": "TrulyStupid",
-  "category": "Productivity",
-  "tags": ["workflow", "automation", "sakura"],
+  "category": "Automation",
+  "tags": ["workflow", "automation", "obs", "spotify", "audio", "productivity"],
   "detect": {
     "win": {
-      "registryName": "Sakura Slipstream",
-      "processName": "Sakura Slipstream.exe"
+      "registryName": ["Sakura Flow", "Sakura Slipstream"],
+      "processName": ["sakura-flow.exe", "Sakura Slipstream.exe"],
+      "paths": [
+        "%LOCALAPPDATA%/Programs/Sakura Flow",
+        "%LOCALAPPDATA%/Programs/Sakura Slipstream"
+      ]
     }
   }
 }
