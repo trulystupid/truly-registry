@@ -1,0 +1,8 @@
+{
+  "id": "voice-remover",
+  "name": "Voice Remover",
+  "description": "Process gameplay recordings to isolate and selectively remove individual players' voices from in-game voice chat.",
+  "author": "TrulyStupid",
+  "category": "Audio",
+  "tags": ["valorant", "audio", "voice", "separation", "recording", "isolation"]
+}

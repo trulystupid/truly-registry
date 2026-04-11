@@ -1,9 +1,10 @@
 {
   "registryVersion": 3,
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-11",
   "apps": [
     "sakura-slipstream",
     "game-overlay-bridge",
-    "truly-timer"
+    "truly-timer",
+    "voice-remover"
   ]
 }
