@@ -1,0 +1,8 @@
+{
+  "id": "ddv-save-tool",
+  "name": "Save Manager",
+  "description": "Universal game save file manager with automatic backups, profile switching, and save cloning for any PC game.",
+  "author": "TrulyStupid",
+  "category": "Gaming",
+  "tags": ["save-manager", "backup", "profile", "gaming", "universal"]
+}
