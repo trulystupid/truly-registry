@@ -1,6 +1,6 @@
 {
-  "registryVersion": 3,
-  "lastUpdated": "2026-04-12",
+  "registryVersion": 5,
+  "lastUpdated": "2026-04-14",
   "apps": [
     "sakura-slipstream",
     "game-overlay-bridge",
