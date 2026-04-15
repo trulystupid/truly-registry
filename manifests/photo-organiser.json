@@ -1,0 +1,8 @@
+{
+  "id": "photo-organiser",
+  "name": "Photo Organiser",
+  "description": "Organise and search your photos using CLIP image recognition. Automatically categorises images by content, groups by date, and lets you search by description or tag.",
+  "author": "TrulyStupid",
+  "category": "Utilities",
+  "tags": ["photos", "organiser", "clip", "image-recognition", "search", "classification"]
+}
