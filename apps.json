@@ -1,12 +1,13 @@
 {
-  "registryVersion": 10,
-  "lastUpdated": "2026-04-15",
+  "registryVersion": 11,
+  "lastUpdated": "2026-04-17",
   "apps": [
     "sakura-slipstream",
     "game-overlay-bridge",
     "truly-timer",
     "voice-remover",
     "ddv-save-tool",
-    "photo-organiser"
+    "photo-organiser",
+    "window-pinner"
   ]
 }

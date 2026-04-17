@@ -1,0 +1,8 @@
+{
+  "id": "window-pinner",
+  "name": "Window Pinner",
+  "description": "Pin windows always-on-top, enable click-through, hide titlebars, and control opacity.",
+  "author": "TrulyStupid",
+  "category": "Utilities",
+  "tags": ["window", "pin", "always-on-top", "opacity", "click-through", "utility"]
+}
