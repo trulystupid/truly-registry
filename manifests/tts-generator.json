@@ -1,0 +1,9 @@
+{
+  "id": "tts-generator",
+  "name": "Text To Speech Generator",
+  "description": "Generate high-quality speech from text using local TTS models (Piper, Coqui XTTS v2, Kokoro-82M). Exposes a hook so other apps — like Sakura Slipstream — can request audio generation from within their workflows.",
+  "author": "TrulyStupid",
+  "category": "Utilities",
+  "premium": true,
+  "tags": ["tts", "text-to-speech", "voice", "audio", "piper", "xtts", "kokoro", "ai"]
+}
