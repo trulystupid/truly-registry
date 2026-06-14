@@ -4,15 +4,30 @@
   "description": "A cute workflow automation app with sakura aesthetics. Launch apps, control Spotify, switch OBS scenes, adjust audio, and more.",
   "author": "TrulyStupid",
   "category": "Automation",
-  "tags": ["workflow", "automation", "obs", "spotify", "audio", "productivity"],
+  "tags": [
+    "workflow",
+    "automation",
+    "obs",
+    "spotify",
+    "audio",
+    "productivity"
+  ],
   "detect": {
     "win": {
-      "registryName": ["Sakura Flow", "Sakura Slipstream"],
-      "processName": ["sakura-flow.exe", "Sakura Slipstream.exe"],
+      "registryName": [
+        "Sakura Flow",
+        "Sakura Slipstream"
+      ],
+      "processName": [
+        "sakura-flow.exe",
+        "Sakura Slipstream.exe"
+      ],
       "paths": [
         "%LOCALAPPDATA%/Programs/Sakura Flow",
         "%LOCALAPPDATA%/Programs/Sakura Slipstream"
       ]
     }
-  }
+  },
+  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\" width=\"40\" height=\"40\"><rect width=\"64\" height=\"64\" rx=\"15\" fill=\"#ff5fa2\"/><g transform=\"translate(32,30)\" fill=\"#fff\"><path d=\"M0,-6C-5,-10 -6,-17 -2,-20L0,-18 2,-20C6,-17 5,-10 0,-6Z\"/><g transform=\"rotate(72)\"><path d=\"M0,-6C-5,-10 -6,-17 -2,-20L0,-18 2,-20C6,-17 5,-10 0,-6Z\"/></g><g transform=\"rotate(144)\"><path d=\"M0,-6C-5,-10 -6,-17 -2,-20L0,-18 2,-20C6,-17 5,-10 0,-6Z\"/></g><g transform=\"rotate(216)\"><path d=\"M0,-6C-5,-10 -6,-17 -2,-20L0,-18 2,-20C6,-17 5,-10 0,-6Z\"/></g><g transform=\"rotate(288)\"><path d=\"M0,-6C-5,-10 -6,-17 -2,-20L0,-18 2,-20C6,-17 5,-10 0,-6Z\"/></g></g><circle cx=\"32\" cy=\"30\" r=\"4.5\" fill=\"#ffd84d\"/></svg>",
+  "gradient": "linear-gradient(135deg,#f43f8e,#be185d)"
 }

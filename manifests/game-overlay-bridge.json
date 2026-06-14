@@ -4,15 +4,30 @@
   "description": "Automatically control OBS overlays and scenes based on Valorant game state. Toggle sources or switch scenes when entering/leaving matches.",
   "author": "TrulyStupid",
   "category": "Automation",
-  "tags": ["valorant", "obs", "overlay", "streaming", "gaming", "automation"],
+  "tags": [
+    "valorant",
+    "obs",
+    "overlay",
+    "streaming",
+    "gaming",
+    "automation"
+  ],
   "detect": {
     "win": {
-      "registryName": ["Game Overlay Bridge", "Valorant OBS Bridge"],
-      "processName": ["ValorantOBSBridge.exe", "Game Overlay Bridge.exe"],
+      "registryName": [
+        "Game Overlay Bridge",
+        "Valorant OBS Bridge"
+      ],
+      "processName": [
+        "ValorantOBSBridge.exe",
+        "Game Overlay Bridge.exe"
+      ],
       "paths": [
         "%LOCALAPPDATA%/Programs/Game Overlay Bridge",
         "%LOCALAPPDATA%/Programs/ValorantOBSBridge"
       ]
     }
-  }
+  },
+  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\" width=\"40\" height=\"40\"><rect width=\"64\" height=\"64\" rx=\"15\" fill=\"#6366f1\"/><path fill=\"#fff\" d=\"M20 27h24a9 9 0 0 1 8.9 10.5l-1.2 6.8A5 5 0 0 1 42 47l-2.7-3.4a4 4 0 0 0-3.1-1.5h-8.4a4 4 0 0 0-3.1 1.5L21.9 47A5 5 0 0 1 13.3 44.3l-1.2-6.8A9 9 0 0 1 20 27Z\"/><rect x=\"18\" y=\"34.5\" width=\"7\" height=\"2.4\" rx=\"1.2\" fill=\"#6366f1\"/><rect x=\"20.3\" y=\"32.2\" width=\"2.4\" height=\"7\" rx=\"1.2\" fill=\"#6366f1\"/><circle cx=\"40\" cy=\"34.5\" r=\"2\" fill=\"#6366f1\"/><circle cx=\"44\" cy=\"38\" r=\"2\" fill=\"#6366f1\"/></svg>",
+  "gradient": "linear-gradient(135deg,#4f46e5,#7c3aed)"
 }

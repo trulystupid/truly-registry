@@ -4,5 +4,14 @@
   "description": "Process gameplay recordings to isolate and selectively remove individual players' voices from in-game voice chat.",
   "author": "TrulyStupid",
   "category": "Audio",
-  "tags": ["valorant", "audio", "voice", "separation", "recording", "isolation"]
+  "tags": [
+    "valorant",
+    "audio",
+    "voice",
+    "separation",
+    "recording",
+    "isolation"
+  ],
+  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\" width=\"40\" height=\"40\"><rect width=\"64\" height=\"64\" rx=\"15\" fill=\"#06b6d4\"/><rect x=\"27\" y=\"16\" width=\"10\" height=\"20\" rx=\"5\" fill=\"#fff\"/><path d=\"M21 30a11 11 0 0 0 22 0\" fill=\"none\" stroke=\"#fff\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"32\" y1=\"41\" x2=\"32\" y2=\"47\" stroke=\"#fff\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"26\" y1=\"47\" x2=\"38\" y2=\"47\" stroke=\"#fff\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg>",
+  "gradient": "linear-gradient(135deg,#0891b2,#155e75)"
 }

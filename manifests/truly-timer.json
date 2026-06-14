@@ -4,11 +4,25 @@
   "description": "Attention-grabbing timer app with scheduling, repeat timers, special effects, sound alerts, and follow-up verification.",
   "author": "TrulyStupid",
   "category": "Utilities",
-  "tags": ["timer", "reminder", "alerts", "productivity", "scheduling"],
+  "tags": [
+    "timer",
+    "reminder",
+    "alerts",
+    "productivity",
+    "scheduling"
+  ],
   "detect": {
     "win": {
-      "registryName": ["Timer", "Truly Timer"],
-      "processName": ["Timer.exe", "Truly Timer.exe"]
+      "registryName": [
+        "Timer",
+        "Truly Timer"
+      ],
+      "processName": [
+        "Timer.exe",
+        "Truly Timer.exe"
+      ]
     }
-  }
+  },
+  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\" width=\"40\" height=\"40\"><rect width=\"64\" height=\"64\" rx=\"15\" fill=\"#1f2937\"/><rect x=\"8\" y=\"22\" width=\"48\" height=\"20\" rx=\"4\" fill=\"#0b1220\"/><text x=\"32\" y=\"36.5\" text-anchor=\"middle\" font-family=\"Consolas,monospace\" font-size=\"15\" font-weight=\"700\" fill=\"#34d399\" letter-spacing=\"1.5\">21:04</text></svg>",
+  "gradient": "linear-gradient(135deg,#374151,#0f172a)"
 }

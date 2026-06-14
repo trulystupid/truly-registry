@@ -5,5 +5,16 @@
   "author": "TrulyStupid",
   "category": "Utilities",
   "premium": true,
-  "tags": ["tts", "text-to-speech", "voice", "audio", "piper", "xtts", "kokoro", "ai"]
+  "tags": [
+    "tts",
+    "text-to-speech",
+    "voice",
+    "audio",
+    "piper",
+    "xtts",
+    "kokoro",
+    "ai"
+  ],
+  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\" width=\"40\" height=\"40\"><rect width=\"64\" height=\"64\" rx=\"15\" fill=\"#a855f7\"/><path fill=\"#fff\" d=\"M14 16h30a5 5 0 0 1 5 5v13a5 5 0 0 1-5 5H28l-8 7v-7h-6a5 5 0 0 1-5-5V21a5 5 0 0 1 5-5Z\"/><g stroke-linecap=\"round\"><line x1=\"20\" y1=\"24\" x2=\"20\" y2=\"31\" stroke=\"#a855f7\" stroke-width=\"3\"/><line x1=\"25\" y1=\"20\" x2=\"25\" y2=\"35\" stroke=\"#d946ef\" stroke-width=\"3\"/><line x1=\"30\" y1=\"23\" x2=\"30\" y2=\"32\" stroke=\"#ec4899\" stroke-width=\"3\"/><line x1=\"35\" y1=\"19\" x2=\"35\" y2=\"36\" stroke=\"#d946ef\" stroke-width=\"3\"/><line x1=\"40\" y1=\"24\" x2=\"40\" y2=\"31\" stroke=\"#a855f7\" stroke-width=\"3\"/></g></svg>",
+  "gradient": "linear-gradient(135deg,#9333ea,#db2777)"
 }
