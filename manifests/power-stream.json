@@ -1,0 +1,18 @@
+{
+  "id": "power-stream",
+  "name": "Power Stream",
+  "description": "Twitch chat commands that trigger OBS stream overlays and click-through always-on-top monitor overlays. Layer editor with images, GIFs, short video clips with audio, and text.",
+  "author": "TrulyStupid",
+  "category": "Streaming",
+  "premium": true,
+  "tags": [
+    "twitch",
+    "obs",
+    "overlay",
+    "streaming",
+    "chat",
+    "commands"
+  ],
+  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\" width=\"40\" height=\"40\"><rect width=\"64\" height=\"64\" rx=\"15\" fill=\"#7c3aed\"/><text x=\"30\" y=\"41\" text-anchor=\"middle\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"23\" font-weight=\"800\" fill=\"#fff\" letter-spacing=\"-1\">PS</text><path d=\"M46 17a8 8 0 0 1 0 11\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\" opacity=\".75\"/><path d=\"M50 14a13 13 0 0 1 0 17\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\" opacity=\".4\"/></svg>",
+  "gradient": "url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMjAgMTMwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBzbGljZSI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjOGI1Y2Y2Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjNGMxZDk1Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjMyMCIgaGVpZ2h0PSIxMzAiIGZpbGw9InVybCgjZykiLz48ZyBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIG9wYWNpdHk9IjAuMTQiPjxjaXJjbGUgY3g9IjMwIiBjeT0iMzAiIHI9IjEwIiBzdHJva2Utd2lkdGg9IjIuMiIvPjxjaXJjbGUgY3g9IjMwIiBjeT0iMzAiIHI9IjE5IiBzdHJva2Utd2lkdGg9IjIuMiIvPjxjaXJjbGUgY3g9IjMwIiBjeT0iMzAiIHI9IjI4IiBzdHJva2Utd2lkdGg9IjIuMiIvPjwvZz48Y2lyY2xlIGN4PSIzMCIgY3k9IjMwIiByPSIzLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPjxwb2x5bGluZSBwb2ludHM9IjEyMCw5NiAxNDAsOTYgMTUwLDc4IDE2NiwxMTQgMTc4LDg4IDE5MCwxMDAgMjEwLDEwMCAyMjIsODQgMjM2LDEwOCAyNTAsOTYgMzIwLDk2IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi40IiBvcGFjaXR5PSIwLjE2IiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48ZyBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjE4Ij48Y2lyY2xlIGN4PSIyNDAiIGN5PSIzNCIgcj0iMiIvPjxjaXJjbGUgY3g9IjI2NiIgY3k9IjUwIiByPSIxLjYiLz48Y2lyY2xlIGN4PSIyODgiIGN5PSIyNCIgcj0iMi40Ii8+PC9nPjwvc3ZnPg==\") center/cover, linear-gradient(135deg,#8b5cf6,#4c1d95)"
+}

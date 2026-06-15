@@ -1,0 +1,18 @@
+{
+  "id": "truly-console-capture",
+  "name": "Console Capture",
+  "description": "Low-latency capture-card viewer for consoles and HDMI sources. Always-on replay buffer with one-tap 30/60-second clip saves, manual recording, audio passthrough, and per-source profiles.",
+  "author": "TrulyStupid",
+  "category": "Streaming",
+  "premium": true,
+  "tags": [
+    "capture",
+    "console",
+    "hdmi",
+    "recording",
+    "replay-buffer",
+    "clips"
+  ],
+  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\" width=\"40\" height=\"40\"><rect width=\"64\" height=\"64\" rx=\"15\" fill=\"#059669\"/><rect x=\"10\" y=\"22\" width=\"44\" height=\"18\" rx=\"5\" fill=\"#fff\"/><circle cx=\"20\" cy=\"31\" r=\"4.5\" fill=\"none\" stroke=\"#059669\" stroke-width=\"2.4\"/><rect x=\"29\" y=\"27.8\" width=\"17\" height=\"2.4\" rx=\"1.2\" fill=\"#059669\"/><rect x=\"29\" y=\"33\" width=\"11\" height=\"2.4\" rx=\"1.2\" fill=\"#34d399\"/><circle cx=\"48\" cy=\"25.5\" r=\"2\" fill=\"#ef4444\"/></svg>",
+  "gradient": "url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMjAgMTMwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBzbGljZSI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMDU5NjY5Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMDY0ZTNiIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjMyMCIgaGVpZ2h0PSIxMzAiIGZpbGw9InVybCgjZykiLz48ZyBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjA1Ij48cmVjdCB4PSIwIiB5PSI2IiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjEuNCIvPjxyZWN0IHg9IjAiIHk9IjEzIiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjEuNCIvPjxyZWN0IHg9IjAiIHk9IjIwIiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjEuNCIvPjxyZWN0IHg9IjAiIHk9IjI3IiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjEuNCIvPjxyZWN0IHg9IjAiIHk9IjM0IiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjEuNCIvPjxyZWN0IHg9IjAiIHk9IjQxIiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjEuNCIvPjxyZWN0IHg9IjAiIHk9IjQ4IiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjEuNCIvPjxyZWN0IHg9IjAiIHk9IjU1IiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjEuNCIvPjxyZWN0IHg9IjAiIHk9IjYyIiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjEuNCIvPjxyZWN0IHg9IjAiIHk9IjY5IiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjEuNCIvPjxyZWN0IHg9IjAiIHk9Ijc2IiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjEuNCIvPjxyZWN0IHg9IjAiIHk9IjgzIiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjEuNCIvPjxyZWN0IHg9IjAiIHk9IjkwIiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjEuNCIvPjxyZWN0IHg9IjAiIHk9Ijk3IiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjEuNCIvPjxyZWN0IHg9IjAiIHk9IjEwNCIgd2lkdGg9IjMyMCIgaGVpZ2h0PSIxLjQiLz48cmVjdCB4PSIwIiB5PSIxMTEiIHdpZHRoPSIzMjAiIGhlaWdodD0iMS40Ii8+PHJlY3QgeD0iMCIgeT0iMTE4IiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjEuNCIvPjxyZWN0IHg9IjAiIHk9IjEyNSIgd2lkdGg9IjMyMCIgaGVpZ2h0PSIxLjQiLz48L2c+PGcgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC4xMyI+PHJlY3QgeD0iMTgiIHk9IjE4IiB3aWR0aD0iOSIgaGVpZ2h0PSI5IiByeD0iMSIvPjxyZWN0IHg9IjMwIiB5PSIyNiIgd2lkdGg9IjkiIGhlaWdodD0iOSIgcng9IjEiLz48cmVjdCB4PSIxOCIgeT0iMzAiIHdpZHRoPSI5IiBoZWlnaHQ9IjkiIHJ4PSIxIi8+PHJlY3QgeD0iMjg0IiB5PSI5NiIgd2lkdGg9IjkiIGhlaWdodD0iOSIgcng9IjEiLz48cmVjdCB4PSIyNzIiIHk9IjEwNCIgd2lkdGg9IjkiIGhlaWdodD0iOSIgcng9IjEiLz48L2c+PGcgb3BhY2l0eT0iMC4xOCI+PGNpcmNsZSBjeD0iMjkwIiBjeT0iMjgiIHI9IjciIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyLjQiLz48Y2lyY2xlIGN4PSIyOTAiIGN5PSIyOCIgcj0iMi42IiBmaWxsPSIjZmZmIi8+PC9nPjwvc3ZnPg==\") center/cover, linear-gradient(135deg,#059669,#064e3b)"
+}
