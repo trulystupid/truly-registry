@@ -1,6 +1,6 @@
 {
   "registryVersion": 11,
-  "lastUpdated": "2026-06-14",
+  "lastUpdated": "2026-10-11",
   "apps": [
     "sakura-slipstream",
     "game-overlay-bridge",
@@ -9,7 +9,6 @@
     "ddv-save-tool",
     "photo-organiser",
     "window-pinner",
-    "tts-generator",
     "power-stream",
     "truly-console-capture"
   ]
