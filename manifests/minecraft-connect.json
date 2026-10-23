@@ -1,0 +1,19 @@
+{
+  "id": "minecraft-connect",
+  "name": "Minecraft Connect",
+  "description": "Play on any Bedrock server from Xbox, PlayStation or Switch. Minecraft Connect makes the server show up in your console's Friends tab as a LAN game, including Paper servers running Geyser.",
+  "author": "TrulyStupid",
+  "category": "Gaming",
+  "tags": [
+    "minecraft",
+    "bedrock",
+    "geyser",
+    "paper",
+    "xbox",
+    "playstation",
+    "switch",
+    "server"
+  ],
+  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\" width=\"40\" height=\"40\"><rect width=\"64\" height=\"64\" rx=\"15\" fill=\"#3f8f2b\"/><path d=\"M14 22l18-9 18 9-18 9z\" fill=\"#7fd65b\"/><path d=\"M14 22v20l18 9V31z\" fill=\"#8b5a2b\"/><path d=\"M50 22v20l-18 9V31z\" fill=\"#6b4420\"/><path d=\"M14 22l18 9 18-9v5l-18 9-18-9z\" fill=\"#62c447\"/><circle cx=\"48\" cy=\"46\" r=\"9\" fill=\"#0c0c10\"/><path d=\"M43.5 46.5a6.4 6.4 0 0 1 9 0M45.6 48.6a3.4 3.4 0 0 1 4.8 0\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><circle cx=\"48\" cy=\"50.6\" r=\"1.1\" fill=\"#fff\"/></svg>",
+  "gradient": "linear-gradient(135deg,#62c447,#2b6a1d)"
+}

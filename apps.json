@@ -1,6 +1,6 @@
 {
   "registryVersion": 11,
-  "lastUpdated": "2026-10-11",
+  "lastUpdated": "2026-10-23",
   "apps": [
     "sakura-slipstream",
     "game-overlay-bridge",
@@ -10,6 +10,7 @@
     "photo-organiser",
     "window-pinner",
     "power-stream",
-    "truly-console-capture"
+    "truly-console-capture",
+    "minecraft-connect"
   ]
 }
