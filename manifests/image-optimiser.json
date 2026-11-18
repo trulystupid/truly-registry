@@ -1,0 +1,18 @@
+{
+  "id": "image-optimiser",
+  "name": "Image Optimiser",
+  "description": "Shrink images for the web in bulk. Drop in files or whole folders, pick a profile, and it finds the highest quality that still hits the saving you asked for.",
+  "author": "TrulyStupid",
+  "category": "Utilities",
+  "tags": [
+    "image",
+    "webp",
+    "avif",
+    "jpeg",
+    "compress",
+    "optimise",
+    "web"
+  ],
+  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\" width=\"40\" height=\"40\"><rect width=\"64\" height=\"64\" rx=\"15\" fill=\"#0d9488\"/><rect x=\"12\" y=\"14\" width=\"40\" height=\"30\" rx=\"5\" fill=\"none\" stroke=\"#fff\" stroke-width=\"3\"/><path d=\"M15 40l10-10 7 7 5-5 12 11\" fill=\"none\" stroke=\"#fff\" stroke-width=\"3\" stroke-linejoin=\"round\"/><circle cx=\"41\" cy=\"23\" r=\"3.2\" fill=\"#fff\"/><path d=\"M24 50h16M28 55h8\" stroke=\"#99f6e4\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg>",
+  "gradient": "linear-gradient(135deg,#0d9488,#2563eb)"
+}
